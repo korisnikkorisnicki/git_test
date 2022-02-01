@@ -1,0 +1,1 @@
+web: gunicorn hostovanje.wsgi --log-file-
